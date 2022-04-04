@@ -72,12 +72,6 @@
     <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"/> 
   </a>
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=razamtv&label=Profile%20views&color=4e7391&style=plastic" alt="razamtv" />
-</p>
-
- 
 <h2 align="center">💬 Contact</h2>
 <h3 align="center">If you have any question, feel free to contact me.<br>You can reach me via the following options.</h3>
 <p align="center"> 
@@ -93,4 +87,9 @@
   <a href="https://www.microsoft.com/de-de/microsoft-teams" target="_blank"> 
     <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
   </a>
+</p>
+
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=razamtv&label=Profile%20views&color=4e7391&style=plastic" alt="razamtv" />
 </p>
