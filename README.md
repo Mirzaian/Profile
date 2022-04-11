@@ -8,7 +8,7 @@
 </p>
 
 <hr/>
-<h4 align="center">Hey, I'm Kevin and I'm an IT specialist for application development.<br>On the one hand i deal in my free time with angular projects and on the other hand I am working on Android projects and using kotlin.<br>I would like to help digitize the world a litte further.</h4>
+<h4 align="center">Hey, I'm Kevin and I'm an IT specialist for application development.<br>On the one hand I deal in my free time with Angular projects and on the other hand I am working on Android projects and using Kotlin.<br>I would like to help digitize the world a litte further.</h4>
 
 <h2 align="center">🛠️ My Skills</h2>
 <h3 align="center">Programming languages</h3>
