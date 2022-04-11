@@ -79,12 +79,8 @@
   <a href="https://www.discord.com/users/223528935705673728" target="_blank"> 
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://www.slack.com/" target="_blank"> 
-    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  </a>
     &emsp;
-  <a href="https://sip:kevinmirzaian@web.de" target="_blank"> 
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=<kevinmirzaian@web.de>" target="_blank"> 
     <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
   </a>
 </p>
