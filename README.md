@@ -84,7 +84,7 @@
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
     &emsp;
-  <a href="sip:kevinmirzaian@web.de" target="_blank"> 
+  <a href="https://sip:kevinmirzaian@web.de" target="_blank"> 
     <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
   </a>
 </p>
