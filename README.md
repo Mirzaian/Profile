@@ -76,7 +76,7 @@
 <h3 align="center">If you have any question, feel free to contact me.<br>You can reach me via the following options.</h3>
 <p align="center"> 
   &emsp; 
-  <a href="https://www.discord.com/" target="_blank"> 
+  <a href="https://www.discord.com/users/223528935705673728" target="_blank"> 
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
   &emsp;
@@ -84,7 +84,7 @@
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
     &emsp;
-  <a href="https://www.microsoft.com/de-de/microsoft-teams" target="_blank"> 
+  <a href="sip:kevinmirzaian@web.de" target="_blank"> 
     <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
   </a>
 </p>
