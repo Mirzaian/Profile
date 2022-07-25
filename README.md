@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77831173/180830731-d5336e1a-9072-41a5-89c9-56559118d62e.png">
+  <img src="https://user-images.githubusercontent.com/77831173/180830731-d5336e1a-9072-41a5-89c9-56559118d62e.png"><br>
+  <a href="https://www.mirzaian.de/portfolio" target="_blank">Check my Portfolio</a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/razamtv"><img src="https://readme-typing-svg.herokuapp.com?color=4E7391&lines=IT+Specialist+for+Application+Development;Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/razamtv"><img src="https://readme-typing-svg.herokuapp.com?color=A70000FF&lines=IT+Specialist+for+Application+Development;Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 
 <hr/>
 <h4 align="center">Hey, I'm Kevin and I'm an IT specialist for application development.<br>On the one hand I deal in my free time with Angular projects and on the other hand I am working on Android projects and using Kotlin.<br>I would like to help digitize the world a litte further.</h4>
