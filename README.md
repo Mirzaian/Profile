@@ -76,7 +76,11 @@
 </p>
 <h2 align="center">💬 Contact</h2>
 <h3 align="center">If you have any question, feel free to contact me.<br>You can reach me via the following options.</h3>
-<p align="center"> 
+<p align="center">
+  &emsp;
+  <a href="https://www.mirzaian.de" target="_blank"> 
+    <img alt="mirzaian.de" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
   &emsp; 
   <a href="https://www.discord.com/users/223528935705673728" target="_blank"> 
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -84,6 +88,10 @@
     &emsp;
   <a href="https://teams.microsoft.com/l/chat/0/0?users=<kevinmirzaian@web.de>" target="_blank"> 
     <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
+  </a>
+    &emsp;
+  <a href="https://www.linkedin.com/in/kevin-mirzaian-9b8798231/" target="_blank"> 
+    <img alt="mirzaian.de" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
