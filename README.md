@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77831173/180830731-d5336e1a-9072-41a5-89c9-56559118d62e.png"><br>
-  <a href="https://www.mirzaian.de/portfolio" target="_blank">Check my Portfolio</a>
+  <a href="https://www.mirzaian.de/" target="_blank">Check my Portfolio</a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/razamtv"><img src="https://readme-typing-svg.herokuapp.com?color=A70000FF&lines=IT+Specialist+for+Application+Development;Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/mirzaian"><img src="https://readme-typing-svg.herokuapp.com?color=A70000FF&lines=IT+Specialist+for+Application+Development;Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
